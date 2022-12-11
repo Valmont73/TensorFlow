@@ -2,6 +2,11 @@
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
+<<<<<<< HEAD
+* TEST
+=======
+* test
+>>>>>>> 7f294bf00863003ed293e6f140dfbce96a197db4
 * Eager Execution / tf.function
 * Integration of the Keras API
 * Facilitated distributed training
